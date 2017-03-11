@@ -1,0 +1,8 @@
+c:\users\darkshrub\documents\visual studio 2013\Projects\İstatistik -2\İstatistik -2\bin\Debug\İstatistik -2.exe.config
+c:\users\darkshrub\documents\visual studio 2013\Projects\İstatistik -2\İstatistik -2\bin\Debug\İstatistik -2.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\İstatistik -2\İstatistik -2\bin\Debug\İstatistik -2.pdb
+c:\users\darkshrub\documents\visual studio 2013\Projects\İstatistik -2\İstatistik -2\obj\Debug\İstatistik__2.Form1.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\İstatistik -2\İstatistik -2\obj\Debug\İstatistik__2.Properties.Resources.resources
+c:\users\darkshrub\documents\visual studio 2013\Projects\İstatistik -2\İstatistik -2\obj\Debug\İstatistik -2.csproj.GenerateResource.Cache
+c:\users\darkshrub\documents\visual studio 2013\Projects\İstatistik -2\İstatistik -2\obj\Debug\İstatistik -2.exe
+c:\users\darkshrub\documents\visual studio 2013\Projects\İstatistik -2\İstatistik -2\obj\Debug\İstatistik -2.pdb
